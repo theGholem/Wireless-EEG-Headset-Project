@@ -1,0 +1,6 @@
+Python 3.8+
+BrainFlow
+PyQt5
+pyqtgraph
+NumPy
+SciPy
